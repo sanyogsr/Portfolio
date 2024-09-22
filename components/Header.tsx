@@ -14,13 +14,13 @@ function Header() {
             <h2>Github</h2>
           </div>
         </Link>
-        <Link href={"https://www.x.com/sanyogsr"}>
+        <Link href={"https://www.x.com/sanyogsr"} target="_blank">
           <div className="flex items-center  cursor-pointer gap-1">
             <Twitter size={20} />
             <h2>Sanyogsr</h2>
           </div>
         </Link>
-        <Link href={"https://www.linkedin.com/in/sanyogsr"}>
+        <Link href={"https://www.linkedin.com/in/sanyogsr"} target="_blank">
           <div className="flex items-center  cursor-pointer gap-1">
             <Linkedin size={20} />
             <h2>Sanyogsr</h2>
